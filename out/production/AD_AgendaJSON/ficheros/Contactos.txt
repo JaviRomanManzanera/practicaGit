@@ -1,0 +1,4 @@
+{"id":1,"telefono":659140344,"nombre":"Javi","ciudad":"Salamanca"}
+{"id":2,"telefono":676676676,"nombre":"Guillermo","ciudad":"Salamanca"}
+{"id":3,"telefono":324234234,"nombre":"Rodri","ciudad":"Langa"}
+{"id":10,"telefono":101010,"nombre":"Diego Armando","ciudad":"Buenos Aires"}
